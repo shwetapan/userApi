@@ -16,4 +16,4 @@ pywin32-ctypes==0.2.0
 sqlparse==0.4.2
 tzdata==2021.5
 whitenoise==6.0.0
-xlwings==0.25.3
+# xlwings==0.25.3
