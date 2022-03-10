@@ -22,12 +22,12 @@ from drf_yasg import openapi
 
 schema_view = get_schema_view(
    openapi.Info(
-      title="User API Documentstion",
+      title="User API Documentation",
       default_version='v1',
       description="Get list of users",
       terms_of_service="https://www.google.com/policies/terms/",
-      contact=openapi.Contact(email="contact@snippets.local"),
-      license=openapi.License(name="BSD License"),
+      contact=openapi.Contact(email="7spandey@gmail.com"),
+      license=openapi.License(name="AB License"),
    ),
    public=True,
    permission_classes=[permissions.AllowAny],
