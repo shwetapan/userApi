@@ -20,3 +20,4 @@ sqlparse==0.4.2
 tzdata==2021.5
 whitenoise==6.0.0
 # xlwings==0.25.3
+django-redis==5.2.0
