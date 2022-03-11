@@ -18,6 +18,15 @@ http://127.0.0.1:8000/
 To get the api documentation, open this link in your browser 
 http://127.0.0.1:8000/swagger
 
+#### Deployed link
+https://getuserlist.herokuapp.com/
+
+#### documentation
+
+https://getuserlist.herokuapp.com/swagger/
+
+
+
 #### Run within docker
 
 Clone the repo and cd into predict folder
