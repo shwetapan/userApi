@@ -18,6 +18,8 @@ http://127.0.0.1:8000/
 To get the api documentation, open this link in your browser 
 http://127.0.0.1:8000/swagger
 
+```
+
 #### Deployed link
 https://getuserlist.herokuapp.com/
 
@@ -54,7 +56,7 @@ Example:
 
 GET
 
-```
+
 /?id=6
 /?id=1000
 
