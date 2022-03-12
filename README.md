@@ -31,8 +31,6 @@ https://getuserlist.herokuapp.com/swagger/
 
 #### Run within docker
 
-Clone the repo and cd into predict folder
-
 Run the image and bash into it to start the server
 docker run python-django
 
